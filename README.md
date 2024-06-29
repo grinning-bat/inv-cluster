@@ -1,4 +1,4 @@
-# Finding genomic regions with abberant distances pattern
+# Finding genomic regions with aberrant distances pattern
 This set of scripts takes as input: 
 * A __.csv__ file, where first two columns are chromosome name and coordinate and the rest is a flattened matrix of pairwise distances (order doesn't matter, just keep it the same across lines).
 * A __.bed__ mask file indicating regions accepted for further analysis
